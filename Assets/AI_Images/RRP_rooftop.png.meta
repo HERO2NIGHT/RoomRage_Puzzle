@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1feaa7e0728ac0549bb71e3611f8ccb7
+guid: 98f0d34c2eaebb947ab5f19fc5bb54ae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6465838174293479500
-    second: Retro Bathroom with Locked Door_0
+      213: -3863473110859312524
+    second: RRP_rooftop_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Retro Bathroom with Locked Door_0
+      name: RRP_rooftop_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4bfa31e107ab446a0800000000000000
-      internalID: -6465838174293479500
+      spriteID: 47215fbdcaf226ac0800000000000000
+      internalID: -3863473110859312524
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Retro Bathroom with Locked Door_0: -6465838174293479500
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

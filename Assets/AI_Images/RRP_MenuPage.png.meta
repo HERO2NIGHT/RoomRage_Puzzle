@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: abbadc4580776ec42ac5f2ed8158cae7
+guid: 021e463145fd24e48be556a877f02632
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2052970650221693725
-    second: Rooftop Scene with Neon Arrow_0
+      213: -2076526193877255280
+    second: RRP_MenuPage_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rooftop Scene with Neon Arrow_0
+      name: RRP_MenuPage_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e4bb3b12126283e0800000000000000
-      internalID: -2052970650221693725
+      spriteID: 09bf627bd62be23e0800000000000000
+      internalID: -2076526193877255280
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Rooftop Scene with Neon Arrow_0: -2052970650221693725
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

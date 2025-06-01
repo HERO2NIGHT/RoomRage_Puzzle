@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b486a959e7c28164cb9cd709845df729
+guid: 1b898934806842d40b18c4b4a99c5e5c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2354701816712878830
-    second: Garage Tools and Red Padlock_0
+      213: 210103493359588085
+    second: RRP_MomLab_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Garage Tools and Red Padlock_0
+      name: RRP_MomLab_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eea532993d49da020800000000000000
-      internalID: 2354701816712878830
+      spriteID: 5f254c793007ae200800000000000000
+      internalID: 210103493359588085
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Garage Tools and Red Padlock_0: 2354701816712878830
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d94fddd41e33daa489740120fb1b286c
+guid: f7d3cf7eadb7f5b41b1796b2db69109e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5680043010318734621
-    second: Vibrant Laboratory Puzzle Setup_0
+      213: 2348847011263623751
+    second: RRP_DadGarrage_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Vibrant Laboratory Puzzle Setup_0
+      name: RRP_DadGarrage_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d151df2160193de40800000000000000
-      internalID: 5680043010318734621
+      spriteID: 7423b1a79e7c89020800000000000000
+      internalID: 2348847011263623751
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Vibrant Laboratory Puzzle Setup_0: 5680043010318734621
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

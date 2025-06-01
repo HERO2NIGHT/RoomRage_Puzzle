@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cdaa424d0bdd35a43aa86b06d9f42845
+guid: 9d5aa29fc8d8f9648b3a9c5200e6ed0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7680422471717843100
-    second: My ChatGPT image (2)_0
+      213: -1700799140992510513
+    second: RRP_DadGarrage2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: My ChatGPT image (2)_0
+      name: RRP_DadGarrage2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c907baf9b87569a60800000000000000
-      internalID: 7680422471717843100
+      spriteID: fc51ad6413c8568e0800000000000000
+      internalID: -1700799140992510513
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      My ChatGPT image (2)_0: 7680422471717843100
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
