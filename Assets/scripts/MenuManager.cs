@@ -11,12 +11,13 @@ public class MenuManager : MonoBehaviour
 
     public void ContinueButton()
     {
-        SceneManager.LoadScene("Dad_garrage2");
+        string lastScene = PlayerPrefs.GetString("LastScene", "menu"); 
+        SceneManager.LoadScene(lastScene);
     }
 
     public void levelSelectButton()
     {
-        SceneManager.LoadScene("LevelSelect");
+        SceneManager.LoadScene("levelselection");
     }
 
     public void HowToPlayButton()
