@@ -5,9 +5,36 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/mainmenu/MAIN MENU.unity
+    guid: c2d6169223657e64c8bbb8be90a32299
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/DadGarrage1.unity
+    guid: 615ef1f136dcc014db6b6996e4b648ac
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/Old_Garrage.unity
+    guid: 2ae8c3c4bfc72e6459670b2280ad0193
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/Kitchen.unity
+    guid: 5a18826b329c5cc489a17f5549fa9cb8
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/Mom's_Lab.unity
+    guid: 30669161e9089cc4e91c549ce67332c5
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/Bathroom.unity
+    guid: 9e104a4c113ad9c459e60e0d4bd3d5bc
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/Bedroom.unity
+    guid: cf6876f6792382140926fa076d6fec33
+  - enabled: 1
+    path: Assets/Scenes/lvlselect/levelselection.unity
+    guid: 1e8daee5242bbcb4294704cd8a5c0272
+  - enabled: 1
+    path: Assets/Scenes/How2play/Tutorial.unity
+    guid: 2a0ca2ec2c493d446b9900e2de0aac7d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
