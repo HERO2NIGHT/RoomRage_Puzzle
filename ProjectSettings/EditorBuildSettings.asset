@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/Scenes/lvlselect/Rooms/Bathroom.unity
     guid: 9e104a4c113ad9c459e60e0d4bd3d5bc
   - enabled: 1
-    path: Assets/Scenes/lvlselect/Rooms/Bedroom.unity
+    path: Assets/Scenes/lvlselect/Rooms/Bedroom/Bedroom.unity
     guid: cf6876f6792382140926fa076d6fec33
   - enabled: 1
     path: Assets/Scenes/lvlselect/levelselection.unity
