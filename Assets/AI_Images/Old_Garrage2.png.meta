@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f7d3cf7eadb7f5b41b1796b2db69109e
+guid: e6ca1ce1b896c91479e8120c5ff48adb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2348847011263623751
-    second: RRP_DadGarrage_0
+      213: 8647714838262092008
+    second: Old_Garrage2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RRP_DadGarrage_0
+      name: Old_Garrage2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7423b1a79e7c89020800000000000000
-      internalID: 2348847011263623751
+      spriteID: 8e09c7de3dad20870800000000000000
+      internalID: 8647714838262092008
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RRP_DadGarrage_0: 2348847011263623751
+      Old_Garrage2_0: 8647714838262092008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

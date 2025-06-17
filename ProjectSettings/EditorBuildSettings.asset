@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/lvlselect/Rooms/Old_Garrage.unity
     guid: 2ae8c3c4bfc72e6459670b2280ad0193
   - enabled: 1
+    path: Assets/Scenes/lvlselect/Rooms/Old_Garrage P2.unity
+    guid: de47fe5e35127e340ad05c3b7b6d0675
+  - enabled: 1
     path: Assets/Scenes/lvlselect/Rooms/Kitchen.unity
     guid: 5a18826b329c5cc489a17f5549fa9cb8
   - enabled: 1
