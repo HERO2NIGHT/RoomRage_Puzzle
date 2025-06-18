@@ -15,21 +15,26 @@ public class LevelSelect : MonoBehaviour
 
 	public void Kitchen_B()
 	{
-		SceneManager.LoadSceneAsync(3);
+		SceneManager.LoadSceneAsync(4);
 	}
 
 	public void Mom_Lab_B()
 	{
-		SceneManager.LoadSceneAsync(4);
+		SceneManager.LoadSceneAsync(5);
 	}
 
 	public void Bathroom_B()
 	{
-		SceneManager.LoadSceneAsync(5);
+		SceneManager.LoadSceneAsync(6);
 	}
 
 	public void Bedroom_B()
 	{
-		SceneManager.LoadSceneAsync(6);
+		SceneManager.LoadSceneAsync(7);
+	}
+
+	public void menu()
+	{
+		SceneManager.LoadSceneAsync(0);
 	}
 }

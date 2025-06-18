@@ -10,12 +10,12 @@ public class MenuScript : MonoBehaviour
 	
   public void LevelButton()
   {
-	  SceneManager.LoadSceneAsync(7);
+	  SceneManager.LoadSceneAsync(8);
   }
 
    public void How2PlayButton()
   {
-	  SceneManager.LoadSceneAsync(8);
+	  SceneManager.LoadSceneAsync(9);
   }
 
    public void QuitButton()
