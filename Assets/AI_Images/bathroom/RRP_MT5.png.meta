@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: b8a628f8f77ca0e469937f61679d4fd7
+guid: 2aeea3a172031ce45846d466a0aeebb4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7692115157373309178
-    second: Tick_0
-  - first:
-      213: 147288439412769314
-    second: Tick_1
+      213: 3327442224835863684
+    second: RRP_MT5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tick_0
+      name: RRP_MT5_0
       rect:
         serializedVersion: 2
-        x: 81
-        y: 79
-        width: 331
-        height: 323
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60fad59d40e104590800000000000000
-      internalID: -7692115157373309178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tick_1
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 146
-        width: 273
-        height: 275
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22248b62e064b0200800000000000000
-      internalID: 147288439412769314
+      spriteID: 4842afde2137d2e20800000000000000
+      internalID: 3327442224835863684
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tick_0: -7692115157373309178
-      Tick_1: 147288439412769314
+      RRP_MT5_0: 3327442224835863684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
