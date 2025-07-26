@@ -9,7 +9,7 @@ public class Password : MonoBehaviour
 
     public GameObject IncorrectPass;
 
-    public TMP_InputField inputField;
+   // public TMP_InputField inputField;
 
     public void Validate(string  enteredPassword)
     {
