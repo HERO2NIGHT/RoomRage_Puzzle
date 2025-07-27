@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/lvlselect/Rooms/Kitchen.unity
     guid: 5a18826b329c5cc489a17f5549fa9cb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/lvlselect/Rooms/Mom's_Lab.unity
     guid: 30669161e9089cc4e91c549ce67332c5
   - enabled: 1
