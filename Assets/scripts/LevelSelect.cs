@@ -13,24 +13,24 @@ public class LevelSelect : MonoBehaviour
 		SceneManager.LoadSceneAsync(2);
 	}
 
-	public void Kitchen_B()
+    public void OldGarrage2_B()
+    {
+        SceneManager.LoadSceneAsync(3);
+    }
+
+    public void Kitchen_B()
 	{
 		SceneManager.LoadSceneAsync(4);
 	}
 
-	public void Mom_Lab_B()
+	public void Bathroom_B()
 	{
 		SceneManager.LoadSceneAsync(5);
 	}
 
-	public void Bathroom_B()
-	{
-		SceneManager.LoadSceneAsync(6);
-	}
-
 	public void Bedroom_B()
 	{
-		SceneManager.LoadSceneAsync(7);
+		SceneManager.LoadSceneAsync(6);
 	}
 
 	public void menu()

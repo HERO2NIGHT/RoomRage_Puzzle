@@ -2785,7 +2785,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 483474676}
         m_TargetAssemblyTypeName: go2menu, Assembly-CSharp
-        m_MethodName: BackToMenu
+        m_MethodName: BackToLevelSelction
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

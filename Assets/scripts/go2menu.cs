@@ -10,7 +10,7 @@ public class go2menu : MonoBehaviour
 
 	 public void BackToLevelSelction()
 	{
-		SceneManager.LoadSceneAsync(8);
+		SceneManager.LoadSceneAsync(7);
 	}
 
 }
